@@ -23,3 +23,4 @@ Progress Log for Epicodus Capstone Project
 *  15:23 Continue research on rendering deck in Unity.
 *  15:45 Researching drag and drop Unity functionality.
 *  16:05 Switching research sources. Researching best way to implement "turn" functionality.
+*  16:34 Light refactor based on new research sources.
