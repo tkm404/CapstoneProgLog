@@ -13,3 +13,4 @@ Progress Log for Epicodus Capstone Project
 * 7/7/2023 11:38 Double-check fields, begin linking code to visual.
 * 7/7/2023 12:00 Find and fix errors, getting ArgOutOfRange error.
 * 7/7/2023 12:18 Fixed Arg... error. Display for individual basic card works!
+* 7/7/2023 13:23 Resume Coding. Researching Scriptable Objects re: Unity.
