@@ -20,3 +20,4 @@ Progress Log for Epicodus Capstone Project
 * 7/7/2023 14:45 Research period for best ways to make my decks work.
 * 7/7/2023 15:05 Returning to original source for now. More research.
 * 7/7/2023 15:23 Continue research on rendering deck in Unity.
+* 7/7/2023 15:45 Researching drag and drop Unity functionality.
