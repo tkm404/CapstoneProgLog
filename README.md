@@ -15,3 +15,4 @@ Progress Log for Epicodus Capstone Project
 * 7/7/2023 12:18 Fixed Arg... error. Display for individual basic card works!
 * 7/7/2023 13:23 Resume Coding. Researching Scriptable Objects re: Unity.
 * 7/7/2023 13:45 Some debate re: Scriptable Objects. Moving on. Setting placeholder images.
+* 7/7/2023 14:03 Add placeholder images, add Sprite field to Cards.
