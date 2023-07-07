@@ -17,3 +17,4 @@ Progress Log for Epicodus Capstone Project
 * 7/7/2023 13:45 Some debate re: Scriptable Objects. Moving on. Setting placeholder images.
 * 7/7/2023 14:03 Add placeholder images, add Sprite field to Cards.
 * 7/7/2023 14:27 Scratch coding the deck element. Will adjust as needed for my game's mechanics.
+* 7/7/2023 14:45 Research period for best ways to make my decks work.
