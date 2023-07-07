@@ -10,3 +10,4 @@ Progress Log for Epicodus Capstone Project
 * 7/7/2023 10:19 Begin creating Unity assets and visuals.
 * 7/7/2023 10:48 Creating basic card design visual.
 * 7/7/2023 11:08 Begin writing code to link card fields to visual.
+* 7/7/2023 11:38 Double-check fields, begin linking code to visual.
