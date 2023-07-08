@@ -1,5 +1,19 @@
 # CapstoneProgLog
 Progress Log for Epicodus Capstone Project
+## Project Overview:
+#### "Iconoclast" is a card game based loosely on the rules of Rock-Paper-Scissors 
+* Two players are presented with three different faction choices, and each player will pick two of those factions to build their decks.
+* Each faction comes with a pre-made 15 card deck scaling up from weak to powerful cards in decreasing quantity.
+* The chosen factions' decks are shuffled together to make the 30 card player deck.
+* Players play through a Round by flipping over the top card of both decks simultaneously.
+* The player whose card has the higher stats (influenced by their faction type. I.E. Rocks are better against Scissors...) wins the Bout.
+* The player who wins the best 3 out of 5 Bouts wins the Round and earns points based on how many Bouts were played (a player earns more points for a Round that goes to Bout 5, for instance).
+
+#### Further Objectives:
+* Each faction has a leader, whose ability a player may invoke once per Round. Player's first faction choice is their main leader, who may use this ability.
+* Tie games will repeat their Bout until the tie is broken (I.E. the round will not go to Bout 3 for as long as Bout 2 results in a tie).
+* The trailing player is allowed to bet points on the next Round before the next Round begins. If they win, they get that many points extra. If they lose, they lose those points
+* A full game or "Set" is played out over the best 2 out of 3 Rounds.
 
 ### 7/7/2023
 *  07:59 Research Unity / C# combination practices.
