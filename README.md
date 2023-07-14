@@ -54,3 +54,4 @@ Progress Log for Epicodus Capstone Project
 * 15:13 Finish first pass of card rendering. Working on Decks.
 * 13:26 Project crashed... need to repopulate the cards.
 * 15:40 Cards re-rendered, project saved.
+* 16:09 Draft game board visual.
