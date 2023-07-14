@@ -39,3 +39,6 @@ Progress Log for Epicodus Capstone Project
 *  16:05 Switching research sources. Researching best way to implement "turn" functionality.
 *  16:34 Light refactor based on new research sources.
 *  17:05 Write Capstone Proposal. Submit this repo to Epicodus.
+
+### 7/14/2023
+* 08:43 Technical difficulties. Projects on home computer not on cloud storage, so installing Unity on Laptop a good idea, but not immediately productive. Had to swing by home. Desktop being a pill.
