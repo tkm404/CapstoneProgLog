@@ -45,3 +45,4 @@ Progress Log for Epicodus Capstone Project
 * 09:00 Update cards text to scalable mesh as opposed to static text image.
 * 09:34 Many null reference errors. Working on a fix.
 * 09:51 Shifting gears. Trying a new approach based on what I know so far.
+* 10:24 Hit a bit of a dead end. Backtracking.
