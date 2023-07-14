@@ -49,3 +49,4 @@ Progress Log for Epicodus Capstone Project
 * 10:58 Re-researching Scriptable Objects.
 * 11:41 Scriptable Objects are SUPER USEFUL ACTUALLY!
 * 12:07 About halfway through rebuilding database of scriptable cards.
+* 12:33 Finish rebuild, start rendering cards. Move project to Laptop.
