@@ -44,3 +44,4 @@ Progress Log for Epicodus Capstone Project
 * 08:43 Technical difficulties. Projects on home computer not on cloud storage, so installing Unity on Laptop a good idea, but not immediately productive. Had to swing by home. Desktop being a pill.
 * 09:00 Update cards text to scalable mesh as opposed to static text image.
 * 09:34 Many null reference errors. Working on a fix.
+* 09:51 Shifting gears. Trying a new approach based on what I know so far.
