@@ -56,3 +56,4 @@ Progress Log for Epicodus Capstone Project
 * 15:40 Cards re-rendered, project saved.
 * 16:09 Draft game board visual.
 * 16:35 Add to board game visual. Create deck visuals.
+* 16:55 Research grid layout for Unity. Submitting for today.
