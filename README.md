@@ -48,3 +48,4 @@ Progress Log for Epicodus Capstone Project
 * 10:24 Hit a bit of a dead end. Backtracking.
 * 10:58 Re-researching Scriptable Objects.
 * 11:41 Scriptable Objects are SUPER USEFUL ACTUALLY!
+* 12:07 About halfway through rebuilding database of scriptable cards.
