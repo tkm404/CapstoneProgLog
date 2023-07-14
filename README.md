@@ -51,4 +51,5 @@ Progress Log for Epicodus Capstone Project
 * 12:07 About halfway through rebuilding database of scriptable cards.
 * 12:33 Finish rebuild, start rendering cards. Move project to Laptop.
 * 14:29 Back from errands. Resuming card rendering.
-* 15:13 Finish first pass of card rendering. Working on Decks
+* 15:13 Finish first pass of card rendering. Working on Decks.
+* 13:26 Project crashed... need to repopulate the cards.
