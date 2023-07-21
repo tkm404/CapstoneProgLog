@@ -70,3 +70,4 @@ Progress Log for Epicodus Capstone Project
 * 13:40 Researching Character/Deck selection scene implementation.
 * 14:02 Update button functionality to move cards to arena area.
 * 14:58 Still working on that method. Finding the drawbacks of Scriptable Objects, or at least of how I've set things up.
+* 15:34 Think I've figured out how to access Scriptable Object... script in this method. Button console logs correct card list.
