@@ -67,3 +67,4 @@ Progress Log for Epicodus Capstone Project
 * 10:39 Research game logic implementation.
 * 11:27 Refactor some objects to interact better with scene background.
 * 12:09 Create Deck Display, add to deck objects. Test lists populating correctly. Break for lunch.
+* 13:40 Researching Character/Deck selection scene implementation.
