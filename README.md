@@ -62,3 +62,4 @@ Progress Log for Epicodus Capstone Project
 * Unlogged ~7/16/2023 Implement hover-zoom method to card objects.
 * 08:13 Successfully transferred project to work laptop.
 * 08:26 Import assets for card back art.
+* 09:10 Setup starting deck and discard positions. Reviewing placement for card flip method.
