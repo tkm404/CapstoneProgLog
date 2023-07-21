@@ -69,3 +69,4 @@ Progress Log for Epicodus Capstone Project
 * 12:09 Create Deck Display, add to deck objects. Test lists populating correctly. Break for lunch.
 * 13:40 Researching Character/Deck selection scene implementation.
 * 14:02 Update button functionality to move cards to arena area.
+* 14:58 Still working on that method. Finding the drawbacks of Scriptable Objects, or at least of how I've set things up.
