@@ -60,3 +60,4 @@ Progress Log for Epicodus Capstone Project
 
 ### 7/21/2023
 * Unlogged ~7/16/2023 Implement hover-zoom method to card objects.
+* 08:13 Successfully transferred project to work laptop.
