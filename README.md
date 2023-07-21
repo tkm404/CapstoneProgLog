@@ -65,3 +65,4 @@ Progress Log for Epicodus Capstone Project
 * 09:10 Setup starting deck and discard positions. Reviewing placement for card flip method.
 * 10:13 Create scriptable deck objects.
 * 10:39 Research game logic implementation.
+* 11:27 Refactor some objects to interact better with scene background.
