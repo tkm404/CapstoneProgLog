@@ -68,3 +68,4 @@ Progress Log for Epicodus Capstone Project
 * 11:27 Refactor some objects to interact better with scene background.
 * 12:09 Create Deck Display, add to deck objects. Test lists populating correctly. Break for lunch.
 * 13:40 Researching Character/Deck selection scene implementation.
+* 14:02 Update button functionality to move cards to arena area.
