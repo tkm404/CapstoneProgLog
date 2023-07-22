@@ -74,3 +74,4 @@ Progress Log for Epicodus Capstone Project
 * 15:57 Okay, I think I may actually have figured it out; random return seems to work.
 * 16:10 Snag: Removing from the scriptable list means manually replacing cards. Need to solve that.
 * 16:53 Researching how to instantiate a S.O. via the button method.
+* 17:16 So close! Need to not tie instantiation to OnClick method.
