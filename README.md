@@ -78,3 +78,6 @@ Progress Log for Epicodus Capstone Project
 
 ### 7/23/23
 * Unlogged ~16:00 to 23:29 Spent most of the day trying to figure out a workaround for the OnClick making a new deck issue. It turns out that scriptable objects can't be added to objects at runtime. I made a list of GameObjects to populate the FlipCards button method and that seems to have worked to display both player's cards in the main arena area. Still haven't exactly solved the issue with manually re-inserting cards into the lists after testing, but I took away that interaction for the time being. May have to figure out a repeat of the card method.
+
+### 7/24/23
+* 15:30ish-16:03 Cards displaying properly in main arena area and discard piles. Need to better indicate that the middle cards are going to discard piles. 
