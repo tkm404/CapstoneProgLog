@@ -88,3 +88,4 @@ Progress Log for Epicodus Capstone Project
 * 10:03 Add toggle feature to buttons to switch between each when clicked.
 * 10:47 Debug test of Rumble button acknowledges both player's cards in arena area.
 * 11:20 Figure out how to find script text on objects via code reference!
+* 15:04 Resume testing. Successfully determine if one card's power is higher than the other!
