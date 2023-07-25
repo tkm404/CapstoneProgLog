@@ -82,3 +82,4 @@ Progress Log for Epicodus Capstone Project
 ### 7/24/23
 * 15:30ish-16:03 Cards displaying properly in main arena area and discard piles. Need to better indicate that the middle cards are going to discard piles.
 * 17:43 Figured out an instantiation order that works to stagger the discard piles and flip piles.
+* 18:09 Add function to flip button to turn off and reveal "RUMBLE!" button.
