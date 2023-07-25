@@ -92,3 +92,4 @@ Progress Log for Epicodus Capstone Project
 * 15:11 Pass debug test to determine if bout ends in win or draw for both players with basic stats!
 * 15:26 Implement type advantage to boost attack stats, pass debug test!
 * 15:46 Type advantage/disadvantage logic working!
+* 16:32 Update UI with areas for Win indication and match feedback window.
