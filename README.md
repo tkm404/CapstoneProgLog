@@ -90,3 +90,4 @@ Progress Log for Epicodus Capstone Project
 * 11:20 Figure out how to find script text on objects via code reference!
 * 15:04 Resume testing. Successfully determine if one card's power is higher than the other!
 * 15:11 Pass debug test to determine if bout ends in win or draw for both players with basic stats!
+* 15:26 Implement type advantage to boost attack stats, pass debug test!
