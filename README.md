@@ -99,3 +99,4 @@ Progress Log for Epicodus Capstone Project
 
 ### 7/26/23
 * 10:22 Researching character/deck selection options.
+* 10:26 Actually scratch that for now, working on finishing scoring indicators.
