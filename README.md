@@ -94,3 +94,4 @@ Progress Log for Epicodus Capstone Project
 * 15:46 Type advantage/disadvantage logic working!
 * 16:32 Update UI with areas for Win indication and match feedback window.
 * 19:59 Back at it. Added UI area to indicate number of bouts played in a round.
+* 21:16 UI field for game events no longer transparent for no reason.
