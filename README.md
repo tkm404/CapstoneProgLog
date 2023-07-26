@@ -104,3 +104,4 @@ Progress Log for Epicodus Capstone Project
 * 11:16 Bout indicator "lights" working correctly.
 * 11:43 Victory indicator "lights" working correctly, but wrong color for P2.
 * 12:07 Upon further inspection, the lights are the wrong color for P1 as well, but at least they're appearing in the right places.
+* 13:05 Looking into scene changes for menus, rounds, character selection.
