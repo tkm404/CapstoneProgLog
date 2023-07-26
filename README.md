@@ -96,3 +96,6 @@ Progress Log for Epicodus Capstone Project
 * 19:59 Back at it. Added UI area to indicate number of bouts played in a round.
 * 21:16 UI field for game events no longer transparent for no reason.
 * 21:37 UI field for game events updates with correct events.
+
+### 7/26/23
+* 10:22 Researching character/deck selection options.
