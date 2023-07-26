@@ -107,3 +107,4 @@ Progress Log for Epicodus Capstone Project
 * 13:05 Looking into scene changes for menus, rounds, character selection.
 * 13:53 Add title scene, title banner, and play game button (no functionality yet).
 * 14:13 Add options menu with "Shenanigans" slider.
+* 14:24 Add function to play button to switch to game scene!
