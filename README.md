@@ -110,3 +110,4 @@ Progress Log for Epicodus Capstone Project
 * 14:24 Add function to play button to switch to game scene!
 * 14:31 Menu buttons all work to do what they say they do.
 * 15:09 First pass at character/deck selection screen. Add buttons to advance to game, go back to main menu.
+* 16:41 Update UI visuals to be more appealing.
