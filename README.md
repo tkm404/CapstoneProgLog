@@ -101,3 +101,4 @@ Progress Log for Epicodus Capstone Project
 * 10:22 Researching character/deck selection options.
 * 10:26 Actually scratch that for now, working on finishing scoring indicators.
 * 10:38 Update scrolling match log to display victory message.
+* 11:16 Bout indicator "lights" working correctly.
