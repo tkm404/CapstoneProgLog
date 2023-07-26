@@ -95,3 +95,4 @@ Progress Log for Epicodus Capstone Project
 * 16:32 Update UI with areas for Win indication and match feedback window.
 * 19:59 Back at it. Added UI area to indicate number of bouts played in a round.
 * 21:16 UI field for game events no longer transparent for no reason.
+* 21:37 UI field for game events updates with correct events.
