@@ -106,3 +106,4 @@ Progress Log for Epicodus Capstone Project
 * 12:07 Upon further inspection, the lights are the wrong color for P1 as well, but at least they're appearing in the right places.
 * 13:05 Looking into scene changes for menus, rounds, character selection.
 * 13:53 Add title scene, title banner, and play game button (no functionality yet).
+* 14:13 Add options menu with "Shenanigans" slider.
