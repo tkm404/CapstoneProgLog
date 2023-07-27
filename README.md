@@ -125,3 +125,4 @@ Progress Log for Epicodus Capstone Project
 * 10:50 Leader decks now creating instances of objects so I don't have to manually refill them! Deleted duplicates from Library list.
 * 11:09 Make leader select portraits slightly bigger.
 * 11:42 Add recurring button to game scene to return to leader select scene.
+* 11:55 Add shadows to the deck UI positions to give them some depth.
