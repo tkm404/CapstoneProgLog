@@ -121,3 +121,4 @@ Progress Log for Epicodus Capstone Project
 * 08:09 Presentation later today, so I'll try to get Leaders to spawn into the game with a deck. Subfaction choice will have to wait. If that works, I might try to get Rounds to work.
 * 09:15 Still WIP. The deck occasionally looks like it works, but I haven't been able to replicate the success.
 * 09:56 I /THINK/ I figured it out. Leaders are spawning with their correct decks.
+* 10:11 Leaders seem to be working with correct decks, P2 seems to be working with a random deck, but that's hard to test.
