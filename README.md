@@ -114,3 +114,4 @@ Progress Log for Epicodus Capstone Project
 * 17:29 WIP Character/Deck selection screen and code.
 * 19:53 Character selection icons up, able to select an icon.
 * 20:08 WIP Faction selection screen. Weird visual glitch happened where I can't see certain UI elements in the editor, but I can see them in play mode.
+* 21:24 Visual glitch fixed. No idea why it happened, but a bunch of Z values were randomly messed with.
