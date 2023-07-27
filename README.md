@@ -112,3 +112,4 @@ Progress Log for Epicodus Capstone Project
 * 15:09 First pass at character/deck selection screen. Add buttons to advance to game, go back to main menu.
 * 16:41 Update UI visuals to be more appealing.
 * 17:29 WIP Character/Deck selection screen and code.
+* 19:53 Character selection icons up, able to select an icon.
