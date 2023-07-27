@@ -116,3 +116,6 @@ Progress Log for Epicodus Capstone Project
 * 20:08 WIP Faction selection screen. Weird visual glitch happened where I can't see certain UI elements in the editor, but I can see them in play mode.
 * 21:24 Visual glitch fixed. No idea why it happened, but a bunch of Z values were randomly messed with.
 * 21:28 Update leader portraits.
+
+### 7/27/23
+* 08:09 Presentation later today, so I'll try to get Leaders to spawn into the game with a deck. Subfaction choice will have to wait. If that works, I might try to get Rounds to work.
