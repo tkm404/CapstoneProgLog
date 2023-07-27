@@ -123,3 +123,4 @@ Progress Log for Epicodus Capstone Project
 * 09:56 I /THINK/ I figured it out. Leaders are spawning with their correct decks.
 * 10:11 Leaders seem to be working with correct decks, P2 seems to be working with a random deck, but that's hard to test.
 * 10:50 Leader decks now creating instances of objects so I don't have to manually refill them! Deleted duplicates from Library list.
+* 11:09 Make leader select portraits slightly bigger.
