@@ -126,3 +126,4 @@ Progress Log for Epicodus Capstone Project
 * 11:09 Make leader select portraits slightly bigger.
 * 11:42 Add recurring button to game scene to return to leader select scene.
 * 11:55 Add shadows to the deck UI positions to give them some depth.
+* 12:05 Adjusted card stats to align better with game philo.
