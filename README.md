@@ -119,3 +119,4 @@ Progress Log for Epicodus Capstone Project
 
 ### 7/27/23
 * 08:09 Presentation later today, so I'll try to get Leaders to spawn into the game with a deck. Subfaction choice will have to wait. If that works, I might try to get Rounds to work.
+* 09:15 Still WIP. The deck occasionally looks like it works, but I haven't been able to replicate the success.
