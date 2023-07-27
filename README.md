@@ -128,3 +128,4 @@ Progress Log for Epicodus Capstone Project
 * 11:55 Add shadows to the deck UI positions to give them some depth.
 * 12:05 Adjusted card stats to align better with game philo.
 * 12:26 Add score indicators to both player's sides.
+* 13:28 Set bout indicators to reset after a round is finished.
